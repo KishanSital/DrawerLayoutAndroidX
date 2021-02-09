@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CatChat</string>
+    <string name="user_name">spot@catchat.com</string>
+    <string name="nav_inbox">Mesagez</string>
+    <string name="nav_drafts">Draftz</string>
+    <string name="nav_sent">Sent mesagez</string>
+    <string name="nav_trash">In da trash</string>
+    <string name="nav_support">Support</string>
+    <string name="nav_help">Halp</string>
+    <string name="nav_feedback">Giv us feedback</string>
+    <string name="nav_open_drawer">Open navigation drawer</string>
+    <string name="nav_close_drawer">Close navigation drawer</string>
+    <string name="drafts">Drafts</string>
+    <string name="inbox">Inbox</string>
+    <string name="sent_items">Sent items</string>
+    <string name="trash">Trash</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
